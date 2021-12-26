@@ -1,0 +1,92 @@
+
+/* Smartphones */
+@media (max-width: 500px) {
+#navbar {
+    height: 100px;
+    position: fixed;
+    text-align: center;
+}
+
+#navnbar h1 {
+    padding-top: 10px;
+}
+
+.logo {
+    width: 100%;
+    font-size: 30px;
+}
+
+#navbar ul {
+    float: none;
+    display: inline-block;
+}
+
+#navbar ul li a {
+    display: block;
+    padding: 17px;
+}
+
+
+/* Align icon to left */
+#what .items {
+    text-align: center;
+}
+
+#what .items .itemn {
+    float: none;
+    width: 100px;
+    padding: 0px 100px;
+    overflow: auto;
+    text-align: center;
+}
+
+#what .items .item h3 {
+    text-align: left;
+}
+
+#what .items .item p {
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+#what h2{
+    padding-bottom: 10px;
+}
+
+/* Position icon */
+#what .items .item i {
+    background: yellowgreen;
+    border-radius: 50%;
+}
+
+#who .who-img, #who .m-heading, #who p, #who h3, #who .list-1 {
+    display: none;
+}
+
+#who .p-2 {
+    float: none;
+    width: 100%;
+}
+
+#what .items .item i {
+    background: yellowgreen;
+    border-radius: 50%;
+}
+
+#who .who-img, #who .m .m-heading, #who p, #who h3, #who .list-1 {
+    display: none;
+}
+
+#who .p-2 {
+    float: none;
+    width: 100px;
+    padding-top: 0px;
+}
+
+#who div {
+    height: 200px;
+}
+
+#clients .items img {
+    width: 50px
+}
