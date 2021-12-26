@@ -183,7 +183,7 @@ p {
     float: left;
     padding: 15px;
     background: yellowgreen;
-    border-radius: 50px;
+    border-radius: 50%;
 }
 
 /* Section: Who We Are */
@@ -196,7 +196,7 @@ p {
 }
 
 #who .who-img {
-    width: 40px;
+    width: 40%;
     float: left;
     background: url("../img/article.jpg") center/cover;
     height: 400px;
