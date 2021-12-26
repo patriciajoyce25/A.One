@@ -95,3 +95,12 @@
     #clients .items img {
         width: 50px;
     }
+
+    #main-footer {
+        float: none;
+        width: 100px;
+        padding: 0px 100px;
+        overflow: auto;
+        text-align: center;
+
+    }
