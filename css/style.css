@@ -198,7 +198,7 @@ p {
 #who .who-img {
     width: 40px;
     float: left;
-    background: url("..img/article.svg") center/cover;
+    background: url("./img/article.svg") center/cover;
     height: 400px;
 }
 
