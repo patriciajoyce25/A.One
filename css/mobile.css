@@ -1,6 +1,6 @@
 
 /* Smartphones */
-@media (max-width: 500px) {
+@media  (max-width: 500px) {
 #navbar {
     height: 100px;
     position: fixed;
@@ -66,6 +66,7 @@
 #who .p-2 {
     float: none;
     width: 100%;
+    padding-top: 0px;
 }
 
 #what .items .item i {
@@ -83,10 +84,15 @@
     padding-top: 0px;
 }
 
+#clients .items ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
 #who div {
     height: 200px;
 }
 
 #clients .items img {
-    width: 50px
+    width: 50px;
 }
