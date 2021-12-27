@@ -54,8 +54,7 @@
     
     /* Position icon */
     #what .items .item i {
-        background: yellowgreen;
-        border-radius: 50%;
+        border-radius: 100%;
     }
     
     #who .who-img, #who .m-heading, #who p, #who h3, #who .list-1 {
