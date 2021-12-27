@@ -54,7 +54,7 @@
     
     /* Position icon */
     #what .items .item i {
-        border-radius: 100%;
+        border-radius: 50%;
     }
     
     #who .who-img, #who .m-heading, #who p, #who h3, #who .list-1 {
@@ -80,6 +80,6 @@
     }
     
     #clients .items img {
-        width: 100px;
+        width: 200px;
     }
 }
