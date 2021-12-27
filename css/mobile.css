@@ -67,20 +67,8 @@
         width: 100%;
         padding-top: 0px;
     }
-    
-    #what .items .item i {
-        background: yellowgreen;
-        border-radius: 50%;
-    }
-    
     #who .who-img, #who .m .m-heading, #who p, #who h3, #who .list-1 {
         display: none;
-    }
-    
-    #who .p-2 {
-        float: none;
-        width: 100px;
-        padding-top: 0px;
     }
     
     #clients .items ul li {
@@ -95,12 +83,4 @@
     #clients .items img {
         width: 50px;
     }
-
-    #main-footer {
-        float: none;
-        width: 100px;
-        padding: 0px 100px;
-        overflow: auto;
-        text-align: center;
-
-    }
+}
