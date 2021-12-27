@@ -109,6 +109,7 @@ p {
     background: black;
     color: white;
     height: 70px;
+    overflow: auto;
     position: fixed;
     width: 100%;
 }
@@ -154,7 +155,7 @@ p {
 
 /* Showcase */
 #showcase {
-    background: url("./image/please.jpg") no-repeat center center/cover;
+    background: url("./img/he.jpg") no-repeat center center/cover;
     height: 650px;
 }
 
@@ -203,7 +204,7 @@ p {
 #who .who-img {
     width: 40%;
     float: left;
-    background: url("./image/second.jpg") center/cover;
+    background: url("./img/second.jpg") center/cover;
     height: 400px;
 }
 
